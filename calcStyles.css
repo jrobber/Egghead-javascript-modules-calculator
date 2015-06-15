@@ -1,0 +1,27 @@
+.cbutton {
+	border: 1px solid #ccc;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	display: inline-block;
+	margin-bottom: 3px;
+}
+.cbutton:hover {
+	cursor: pointer;
+	cursor: hand;
+}
+.result {
+	border: 1px solid #ccc;
+	width: 200px;
+	margin-bottom: 3px;
+}
+#calculator,#calculator2 {
+	width: 400px;
+	font-size: 22px;
+}
+
+.result, .result2 {
+	border: 1px solid #ccc;
+	width: 200px;
+	margin-bottom: 3px;
+}
